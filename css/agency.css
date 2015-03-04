@@ -9,6 +9,70 @@ body {
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+
+
+#LABEL_3 {
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    display: none;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(255, 255, 255);
+    font: normal normal bold normal 14px/21px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px 0px 5px;
+    outline: rgb(255, 255, 255) none 0px;
+}/*#LABEL_3*/
+
+#DIV_4 {
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    display: inline-block;
+    height: 40px;
+    position: relative;
+    width: 400px;
+    perspective-origin: 200px 20px;
+    transform-origin: 200px 20px;
+    border: 0px none rgb(255, 255, 255);
+    font: normal normal normal normal 14px/21px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(255, 255, 255) none 0px;
+}/*#DIV_4*/
+
+#INPUT_5 {
+    box-shadow:  0px 0px 0px 1px inset, rgba(255, 255, 255, 0.498039) 0px 0px 0px 6px, rgba(0, 0, 0, 0.247059) 0px 0px 4px 6px;
+    color: rgb(85, 85, 85);
+    height: 40px;
+    width: 400px;
+    perspective-origin: 200px 20px;
+    transform-origin: 200px 20px;
+    border: 0px none rgb(85, 85, 85);
+    border-radius: 1px 1px 1px 1px;
+    font: normal normal normal normal 17px/21px enriqueta, Times, serif;
+    outline: rgb(85, 85, 85) none 0px;
+    padding: 5px 6px 5px 9px;
+}/*#INPUT_5*/
+
+#BUTTON_6 {
+    background-position: 50% 50%;
+    cursor: pointer;
+    display: block;
+    height: 34px;
+    position: absolute;
+    right: 0px;
+    top: 3px;
+    width: 40px;
+    align-self: stretch;
+    perspective-origin: 20px 17px;
+    transform-origin: 20px 17px;
+    background: rgba(0, 0, 0, 0) url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgd2lkdGg9IjUwIiBoZWlnaHQ9IjUwIiB2aWV3Qm94PSIwIDAgMTAwIDEwMCI+ICAgIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDgsNzgpIj4gICAgICAgIDxnIHRyYW5zZm9ybT0ic2NhbGUoMC4wNSwtMC4wNSkiPiAgICAgICAgICAgIDxwYXRoIGZpbGw9IiMwMDAiIGQ9Ik0xMTUyIDcwNHEwIDE4NSAtMTMxLjUgMzE2LjV0LTMxNi41IDEzMS41dC0zMTYuNSAtMTMxLjV0LTEzMS41IC0zMTYuNXQxMzEuNSAtMzE2LjV0MzE2LjUgLTEzMS41dDMxNi41IDEzMS41dDEzMS41IDMxNi41ek0xNjY0IC0xMjhxMCAtNTIgLTM4IC05MHQtOTAgLTM4cS01NCAwIC05MCAzOGwtMzQzIDM0MnEtMTc5IC0xMjQgLTM5OSAtMTI0cS0xNDMgMCAtMjczLjUgNTUuNXQtMjI1IDE1MHQtMTUwIDIyNXQtNTUuNSAyNzMuNSB0NTUuNSAyNzMuNXQxNTAgMjI1dDIyNSAxNTB0MjczLjUgNTUuNXQyNzMuNSAtNTUuNXQyMjUgLTE1MHQxNTAgLTIyNXQ1NS41IC0yNzMuNXEwIC0yMjAgLTEyNCAtMzk5bDM0MyAtMzQzcTM3IC0zNyAzNyAtOTB6IiAvPiAgICAgICAgPC9nPiAgICA8L2c+PC9zdmc+) no-repeat scroll 50% 50% / 16px 16px padding-box border-box;
+    border-top: 0px none rgb(0, 0, 0);
+    border-right: 0px none rgb(0, 0, 0);
+    border-bottom: 0px none rgb(0, 0, 0);
+    border-left: 1px solid rgb(85, 85, 85);
+    font: normal normal normal normal 14px/21px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}/*#BUTTON_6*/
+
+
+
 .text-muted {
     color: #777;
 }
